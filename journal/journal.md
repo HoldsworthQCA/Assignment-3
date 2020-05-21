@@ -1,8 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
-
-<!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
-
-<!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
+# 1701QCA Final project journal: Siarne Holdsworth
 
 ## Related projects ##
 ### Related project 1 ###
@@ -73,6 +69,9 @@ Levack, Brian P. "The Horrors of Witchcraft and Demonic Possession." Social Rese
 
 
 ## Conceptual development ##
+The first sketch is the first version I got that involved weirder for the sake of weird elements instead of being themed. Though the second set of sketches I narrowed down what elements and themes I needed in the work. 
+!![Image](SK1.png)
+!![Image](SK2.png)
 
 ### Design intent ###
 The intent of this work is the create an unsettling doll.
@@ -85,11 +84,11 @@ A soft sculpture that barley moves and lights up in different ways. It would als
 ### Design concept 2 ###
 A satanic bleeding goat doll. The idea is to modify a sheep doll to become a satanic toy. With a pentagram on its for head and blood dripping from its eyes. This would be made with a fluid pump pumping fluid out of eye holes. Also, it could have red glowing eyes. It would also have AI synthesised bleets and it would chant hymens robotically. 
 
-### Final design concept ###
+### Final design 3 ###
 The main idea I have chosen to go with is a modified baby doll. This doll with speak when it can hear people are around. Once picked up it will vibrate in the persons hand. I want to incorporate some form of lighting, but I am currently unsure how. It will also have elements of its from changed such as one of its legs being elongated to create something even more unsettling. 
 
 ### Final design concept ###
-The concept of this work was to modify a baby doll to create an unsettling experience. This has been based of the idea of ‘haunted dolls’ and the idea of demon possession taking over the body. I wanted to create something unsettling and kind of weird. 
+The concept of this work was to modify a baby doll to create an unsettling experience. This has been based of the idea of ‘haunted dolls’ and the idea of demon possession taking over the body. I wanted to create something unsettling and kind of weird. This has mannifested as a talking demon doll.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
@@ -97,21 +96,97 @@ The concept of this work was to modify a baby doll to create an unsettling exper
 !![Image](IRFC2.jpg)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+### 1. The Long Leg ###
+![Image](S1.png)
+The first fabrication step of this project was the removing of the baby’s leg. Making a larger leg extension from fabric and sewing it together. 
+![Image](S2.png)
+The leg was than reattached to the body and foot. Later on, in the project I came back to the leg and restuffed it with cotton balls as it made the leg feel more substantial and weirder. This was due to the cotton balls feeling like sperate entities within the leg. 
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+### 2. The Horned Ones ###
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+![Image](S3.png)
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+I created the horns out of aluminium foil and air-dry clay. The first step was to test out what size and shape would be appropriate for the baby’s head. I created small aluminium foil bases to test the shapes against the baby’s head. I really liked the curved horned and hoped that would be the finale one.
 
+![Image](S4.png)
+
+Using the aluminium as a base I covered them in air dry clay. This would create a lighter piece that could hold better on the baby’s head. Smaller more pointed horns where created to experiment with smaller multiple horns. I let these dry overnight. The next day I hand sanded the dry horns, going from 40 grit too 1200 grit. 
+
+![Image](S5.png)
+
+During the time of sanding the headphones that where going to be used as guts and headphones where created. I sanded them down to create a better surface for the paint to stick on too as well as to create a worse texture when they would be in your ears. Making the participant more uncomfortable. They where then left to dry. Whilst they where drying I got the idea to light the headphones of the one not being used for the user on fire. This was both because I felt it went with the theme of hell fire and it would discourage people from putting them in your ears.  After these where painted I wanted all the horns. 
+
+### 3. The Tail ###
+
+![Image](S6.png)
+
+The creation of this tail started when I found these interesting plastic snakes in Kmart. I thought they would make a great bake bone for the tail so it could have something ridged in it. I created a small pattern for the tail out of paper. It when then cut out of the fabric twice. 
+
+![Image](S7.png)
+
+I then hot glued the straight sections together. This was due it being a quicker method of creating the tail. I then sewed up the triangle section of the tail as the way it flipped over when I turned the fabric over it looked horrible. So, I then hand stitched the end of the tail together instead of hot gluing it. I tested to make sure the plastic snake would fit in it comfortable. But then I realised it made a very plasticky sound and would come apart rather easy. The solution was to add a small dot of hot glue onto each joint. I then stuffed the hollow sections of the snake with cotton balls. I then stuffed the forked section of the tail. Added the snake into it then stuffed the rest of the tail with as much as I could. Finally I glue each end of the tail to the back of the baby doll.  
+### 4. The Horned Ones Part 2 Revenge of The Horns ###
+
+![Image](S8.png)
+
+Once the paint had dried on the horns, I tested how they would look. The larger horns where too bulky and looked way to large. However, the smaller horns looked great and would be easier to make look flush on the head. A collection of three horns would be the finally collective of horns. This would also could be interpreted as a reference to the divine trinity however inverted it is.  I marked out where they would be glued and then cut small holes into the head so the glue would have a better place to hold.
+
+![Image](S9.png)
+
+I sanded down a small section of the dolls head to give the glue and paint a better surface to adhere too.  I then hot glued the three horns on. Once they where dry I painted a portion around the horns to give a weathered and sore like appearance.  
+
+### 5. The End is Near ###
+
+![Image](S10.png)
+
+To cover both the baby and the mechanism I bought a small one-piece pyjama for the doll. This had two holes cut out of it. One for the tail and one for the ‘guts’. Each hole was painted with red ink to have the illusion that where was blood soaked into the fabric. This was then left to dry.
+
+![Image](S11.png)
+
+Small pouches where created for the battery pack and Microbit. There was going to be just one however it was easier to just have two small one that could be glued together. This was because I could not get access to any other form of housing for these parts inside the doll. 
+
+![Image](S12.png)
+
+The electronics where hooked up together. The battery pack to the Microbit. Then the yellow alligator clip to pin 0 and the red to the ground. These where than attached to the headphones. 
+
+![Image](S13.png)
+
+The baby was then cut open and had some of its stuffing removed. Then the electronics was shoved into it. Unseen in the photos I added tape to the electronics to make them more secure within the doll. I also added an extra piece of red fabric over the hole to keep it all in. 
+
+![Image](S14.png)
 ## Final code ##
+```
+from microbit import *
+import random
+import speech
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+while True:
+    if accelerometer.was_gesture('shake'):
+        number = random.randint(1, 9)
+        if number == 9:
+            speech.say("I am a great soft jelly thing",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 8:
+            speech.say("Are we cool yyet",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 7:
+            speech.say("Give me yeourr tteeeethhh",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 6:
+            speech.say("You are a worm in my mouthh",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 5:
+            speech.say("There is something behind you",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 4:
+            speech.say("My friends saw you",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 3:
+            speech.say("You might be a bad person, John",speed=100, pitch=180, throat=180, mouth=200)
+        elif number == 2:
+            speech.say("Your skin is warm and wet",speed=100, pitch=180, throat=180, mouth=200)
+        else:
+            speech.say("Now I am become de a th, the destroyer of woorldss",speed=100, pitch=180, throat=180, mouth=2000)
+```
+
+The code that this was based of can be found here(https://microbit.org/projects/make-it-code-it/magic-8ball/?editor=python) and here (https://microbit-micropython.readthedocs.io/en/latest/tutorials/speech.html). I tried to make something more complex with using code that creates a dice roller. However, before this assignment I was unaware how to use python and was lucky to get this to work. However I feel it still creates a strong interaction when the person picks up the doll. 
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
+The key aspect of this design was focused on human centred design. The way the human interaction works with the doll. For example, the way cotton balls stuffed into a leg feel unpleasantly like a human organs in a flesh sock. The centre of this design method was based of the 4-step human design method; plan, analyse, design, test and refine. I planned out how, I would go about creating this haunted doll; though speech and doll modification. I analysed texts on what humans find scary and the basis’s for possession and other ‘real’ haunted dolls. I drew up the base model for how the doll would look. The I practiced and refined the code for the voice synthesiser though trial and error. Which leads into the test and the refine. I refined the weathering within the horns, and I have kept tweaking small things and would probably continue if I had more time and resources. The discussion with others on the message board and in class also informed how I could improve certain elements. It also helped flesh out how to create the baby into a more fully formed creation. 
 
 ## Reflection ##
 
