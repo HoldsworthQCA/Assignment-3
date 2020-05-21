@@ -63,25 +63,38 @@ This project is related to mine because *insert reasons here*.
 
 ## Other research ##
 The uncanny valley is where the human like elements of an object relates to how we relate to something. Once we reach a point in likeness humans find objects uncanny and unsettling. Things such a robots, dead bodies and certain children’s toys. Once something becomes to human, we become horrified of it. The whole project is based around this premise. 
-https://search-proquest-com.libraryproxy.griffith.edu.au/docview/1897401494?pq-origsite=summon
+Moore, Roger K. “A Bayesian Explanation of the ‘Uncanny Valley’ Effect and Related Psychological Phenomena.” Scientific Reports 2, no. 1 (2012). https://doi.org/10.1038/srep00864.
 
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+Robert the doll is reportedly one of the most haunted dolls in the world. It is reported that is was a one of a kind creation of the Germany company Steiff Company at the turn of the century. Robert was lifelong companion of Eugene Otto. Eugene would often shift blame for any actions seen as misbehaving to Robert. After the death of Eugene, the new tenants of his family home would often hear strange noises and movement within the house.  Robert has also been blamed for camera malfunction, lights flickering and general torment to those who visit him. “INSIDE ROBERT THE DOLL...” ROBERT THE DOLL. Accessed May 10, 2020. http://robertthedoll.org/.
+Robert the doll may or may not be haunted however he is unnerving. Even if it is the power of thought people place onto him. It could also be due to the fact he looks rather unsettling to modern standards of doll and his portions are very long and gangly compared to most modern dolls. He is apart of the reason I wanted to create a haunted doll for this project. To create a ‘real’ haunted doll when you touch it. To impart something unsettling on the audience. 
+
+The other influence on the overall design aesthetics of the doll is the baby antichrist and demonic possession. The devil is the spawn point for most of the Christians greatest fear throughout history. This ranges from the fear of witches, demon possessions and satanic cults. These fears have spread across the western world as earlier as the fourteenth century. The demonic possession is the fear that a body will be corrupted by the devil (Levack, Brian P.). This idea of the devil corrupting is very frightening, this even more so if it is the thing in society, we cherish most a newborn baby. Therefore, I have corrupted the doll into a demon. It however is not fully demonic still harkening back to the fact it is still a baby doll at its core.  
+Levack, Brian P. "The Horrors of Witchcraft and Demonic Possession." Social Research: An International Quarterly 81, no. 4 (2014): 921-939. https://www.muse.jhu.edu/article/566958.
+
 
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+The intent of this work is the create an unsettling doll.
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+
+### Design concept 1 ###
+A soft sculpture that barley moves and lights up in different ways. It would also mimic the looks of animals however it would be spliced with multiple creates like a chimera from hell.
+
+### Design concept 2 ###
+A satanic bleeding goat doll. The idea is to modify a sheep doll to become a satanic toy. With a pentagram on its for head and blood dripping from its eyes. This would be made with a fluid pump pumping fluid out of eye holes. Also, it could have red glowing eyes. It would also have AI synthesised bleets and it would chant hymens robotically. 
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+The main idea I have chosen to go with is a modified baby doll. This doll with speak when it can hear people are around. Once picked up it will vibrate in the persons hand. I want to incorporate some form of lighting, but I am currently unsure how. It will also have elements of its from changed such as one of its legs being elongated to create something even more unsettling. 
+
+### Final design concept ###
+The concept of this work was to modify a baby doll to create an unsettling experience. This has been based of the idea of ‘haunted dolls’ and the idea of demon possession taking over the body. I wanted to create something unsettling and kind of weird. 
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+!![Image](IRFC2.jpg)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
