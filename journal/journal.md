@@ -192,11 +192,4 @@ The code that this was based of can be found here(https://microbit.org/projects/
 The key aspect of this design was focused on human centred design. The way the human interaction works with the doll. For example, the way cotton balls stuffed into a leg feel unpleasantly like a human organs in a flesh sock. The centre of this design method was based of the 4-step human design method; plan, analyse, design, test and refine. I planned out how, I would go about creating this haunted doll; though speech and doll modification. I analysed texts on what humans find scary and the basis’s for possession and other ‘real’ haunted dolls. I drew up the base model for how the doll would look. The I practiced and refined the code for the voice synthesiser though trial and error. Which leads into the test and the refine. I refined the weathering within the horns, and I have kept tweaking small things and would probably continue if I had more time and resources. The discussion with others on the message board and in class also informed how I could improve certain elements. It also helped flesh out how to create the baby into a more fully formed creation. 
 
 ## Reflection ##
-
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
-
-What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
-
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+I feel that the overall design aesthetic of the baby was the most successful aspect of the project. From the tail to the horns. The technique of weathering was useful from one of the first projects I found. This was useful for the horns as it created this horrible sore. Also, the problem solving from a lot of the videos help. This is because it took me forever to find a way to get code for python to create a random function sequence. I think the novel aspects of the design is the unexpected element of the project. How A baby doll can turn into something evil or unexpected. It is all about the subversion of expectations.  An extension of the project could be a fully animated doll with servos. This could be a mechanical evil look project. Something like the long leg slowly moving towards you.
