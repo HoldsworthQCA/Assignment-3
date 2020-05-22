@@ -1,5 +1,5 @@
 # *Demon Doll*
-## *Insert your name here* ##
+## *Siarne Holdsworth* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 
 
